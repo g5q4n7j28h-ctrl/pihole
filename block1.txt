@@ -1,0 +1,3 @@
+0.0.0.0 ninemonster.com
+0.0.0.0 cdn.ninemonster.com
+0.0.0.0 api.ninemonster.com
