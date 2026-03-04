@@ -1,1 +1,3 @@
-ninemonster.com
+*.ninemonster.com
+api.ninemonster.com
+cdn.ninemonster.com
